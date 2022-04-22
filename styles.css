@@ -39,3 +39,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.load-button{
+  border-radius: 19px;
+  border: none;
+  font-size: 24px;
+  padding: 15px;
+  position: relative;
+  top: 50px;
+  left: 680px;
+  cursor: pointer;
+}
